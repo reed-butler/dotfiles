@@ -9,3 +9,5 @@ if [ -f $HOME/.bashrc ]; then
 fi
 
 set -o vi
+
+alias lla='ls -la'
